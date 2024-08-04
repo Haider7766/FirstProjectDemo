@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"broken","Pageobjectmodel.MainTests.logincredential","4",""
+"broken","Pageobjectmodel.MainTests.paymentsclick","16",""
+"broken","Pageobjectmodel.MainTests.click","3",""
+"passed","Pageobjectmodel.MainTests.tst","7",""

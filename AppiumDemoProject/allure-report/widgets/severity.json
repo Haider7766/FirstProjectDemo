@@ -1,0 +1,41 @@
+[ {
+  "uid" : "d9eca1e189be5673",
+  "name" : "click",
+  "time" : {
+    "start" : 1717784378860,
+    "stop" : 1717784378863,
+    "duration" : 3
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ab54186a62f310f4",
+  "name" : "paymentsclick",
+  "time" : {
+    "start" : 1717784378838,
+    "stop" : 1717784378854,
+    "duration" : 16
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "86f33d8af7d82d9",
+  "name" : "tst",
+  "time" : {
+    "start" : 1717786414915,
+    "stop" : 1717786414922,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f192713899c4711",
+  "name" : "logincredential",
+  "time" : {
+    "start" : 1717784378868,
+    "stop" : 1717784378872,
+    "duration" : 4
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

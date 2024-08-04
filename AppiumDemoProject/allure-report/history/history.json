@@ -1,0 +1,81 @@
+{
+  "1fa123642091a247c01aa1f340685abf" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ab54186a62f310f4",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1717784378838,
+        "stop" : 1717784378854,
+        "duration" : 16
+      }
+    } ]
+  },
+  "ae7aff9a824f26f0592869e073e6bdec" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5f192713899c4711",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1717784378868,
+        "stop" : 1717784378872,
+        "duration" : 4
+      }
+    } ]
+  },
+  "5047b0fde10109b868b83f17d97eb042" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d9eca1e189be5673",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1717784378860,
+        "stop" : 1717784378863,
+        "duration" : 3
+      }
+    } ]
+  },
+  "f9326767875b262a77a707e2203fc840" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "86f33d8af7d82d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1717786414915,
+        "stop" : 1717786414922,
+        "duration" : 7
+      }
+    } ]
+  }
+}

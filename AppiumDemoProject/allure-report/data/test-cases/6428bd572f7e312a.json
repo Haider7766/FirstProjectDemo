@@ -1,0 +1,75 @@
+{
+  "uid" : "6428bd572f7e312a",
+  "name" : "tst",
+  "fullName" : "Pageobjectmodel.MainTests.tst",
+  "historyId" : "f9326767875b262a77a707e2203fc840",
+  "time" : {
+    "start" : 1717784378763,
+    "stop" : 1717784378773,
+    "duration" : 10
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1717784378877,
+      "stop" : 1717784378879,
+      "duration" : 2
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "Pageobjectmodel.MainTests"
+  }, {
+    "name" : "testClass",
+    "value" : "Pageobjectmodel.MainTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "tst"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "Pageobjectmodel.MainTests"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-FOFF414"
+  }, {
+    "name" : "thread",
+    "value" : "13616@DESKTOP-FOFF414.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6428bd572f7e312a.json",
+  "parameterValues" : [ ]
+}

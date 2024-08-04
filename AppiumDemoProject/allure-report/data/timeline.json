@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-FOFF414",
+    "children" : [ {
+      "name" : "13616@DESKTOP-FOFF414.main(1)",
+      "children" : [ {
+        "name" : "logincredential",
+        "uid" : "5f192713899c4711",
+        "parentUid" : "bcd8253ca3012aa6579108a46fe3e546",
+        "status" : "broken",
+        "time" : {
+          "start" : 1717784378868,
+          "stop" : 1717784378872,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "paymentsclick",
+        "uid" : "ab54186a62f310f4",
+        "parentUid" : "bcd8253ca3012aa6579108a46fe3e546",
+        "status" : "broken",
+        "time" : {
+          "start" : 1717784378838,
+          "stop" : 1717784378854,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "click",
+        "uid" : "d9eca1e189be5673",
+        "parentUid" : "bcd8253ca3012aa6579108a46fe3e546",
+        "status" : "broken",
+        "time" : {
+          "start" : 1717784378860,
+          "stop" : 1717784378863,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bcd8253ca3012aa6579108a46fe3e546"
+    }, {
+      "name" : "5144@DESKTOP-FOFF414.main(1)",
+      "children" : [ {
+        "name" : "tst",
+        "uid" : "86f33d8af7d82d9",
+        "parentUid" : "0d416982fd3be5b07e4ea2e3448d23af",
+        "status" : "passed",
+        "time" : {
+          "start" : 1717786414915,
+          "stop" : 1717786414922,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0d416982fd3be5b07e4ea2e3448d23af"
+    } ],
+    "uid" : "6ee3aeb26f1d0e9accb4917c0d9d0c65"
+  } ]
+}
